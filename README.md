@@ -11,9 +11,9 @@ For easiest viewing of these instructions, view online on Github.com or use a Ma
 
 If you haven't already, clone the course materials repo at https://github.com/UChicagoWebDev/course_materials.
 
-1. Make a fork of this repo from: https://github.com/UChicagoWebDev/lab-1-1
+1. Make a fork of this repo from: [https://github.com/UChicagoWebDev/lab-1-1](https://github.com/UChicagoWebDev/lab-1/fork). Clone your fork to your local machine.
 2. Create a file in this firectory called *yourname*.html. For example, mine would be `trevor.html`. Commit and push your changes.
-3. Copy the URL of your repository and submit it on Canvas.
+3. Copy the URL of your forked repository and submit it on Canvas.
 4. Post a link to your deployed page in the #web-development channel on the [UChicago CS Slack](https://cs-uchicago.slack.com).
 
 #### Part 2
